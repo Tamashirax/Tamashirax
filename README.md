@@ -1,30 +1,31 @@
-
  <div align="center">
 
-# ⌜ TAMASHIRAX ⌟
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6D28D9,100:A855F7&height=200&section=header&text=TAMASHIRAX&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Building%20ideas%20into%20reality%2C%20one%20line%20at%20a%20time.&descSize=14&descAlignY=60&animation=fadeIn" width="100%" />
 
-### <span style="color:#A855F7">Building ideas into reality, one line at a time.</span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+CIT-U;Aspiring+Software+Developer;C+%7C+C%2B%2B+%7C+Java;Learning.+Building.+Improving.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+CIT-U;Aspiring+Software+Developer;Learning.+Building.+Improving.;Turning+logic+into+solutions.)](https://git.io/typing-svg)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Tamashirax&style=for-the-badge&color=7E22CE&label=PROFILE+VIEWS)](https://github.com/Tamashirax)
+[![GitHub](https://img.shields.io/badge/GitHub-Tamashirax-18181B?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/Tamashirax)
 
 </div>
 
 ---
 
-## 💜 About Me
+## `> whoami`
 
 ```text
-╭──────────────────────────────────────╮
-│  USER      : Tamashirax               │
-│  ROLE      : IT Student               │
-│  FOCUS     : Software Development     │
-│  EXPERIENCE: 1+ Year Coding           │
-│  STATUS    : Always Learning          │
-╰──────────────────────────────────────╯
+╔══════════════════════════════════════╗
+║             DEVELOPER                ║
+╠══════════════════════════════════════╣
+║  USER       : Tamashirax             ║
+║  EDUCATION  : BS Information Tech    ║
+║  UNIVERSITY : CIT - University       ║
+║  EXPERIENCE : 1+ Year Coding         ║
+║  STATUS     : Always Learning        ║
+╚══════════════════════════════════════╝
 ```
 
-- 🎓 BS Information Technology at **Cebu Institute of Technology - University**
+- 🎓 Studying **Bachelor of Science in Information Technology** at Cebu Institute of Technology - University
 - 💻 1+ year of coding experience
 - 🧠 Interested in programming, algorithms, and software development
 - ⚡ Learning through hands-on projects and experimentation
@@ -32,65 +33,82 @@
 
 ---
 
-## 🖥️ Tech Stack
+## `> tech --stack`
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-6D28D9?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
 
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=A855F7)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=C084FC)
-![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,css&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## `> github --stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamashirax&show_icons=true&hide_border=true&bg_color=09050F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&ring_color=9333EA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamashirax&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&ring_color=A855F7" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Tamashirax&background=09050F&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=8B7CA8&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Tamashirax&theme=transparent&hide_border=true&background=0D0618&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=9CA3AF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamashirax&layout=compact&hide_border=true&bg_color=09050F&title_color=C084FC&text_color=E9D5FF" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamashirax&layout=compact&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> github --trophies`
 
 <div align="center">
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=Tamashirax&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
 
 </div>
 
 ---
 
-## ⚡ Current Mission
+## `> current_mission`
 
-```text
-[+] Strengthen programming fundamentals
-[+] Master data structures and algorithms
-[+] Build meaningful software projects
-[+] Explore AI and backend development
-[ ] Contribute to open-source projects
-```
+<div align="center">
+
+| Status | Mission |
+|:---:|---|
+| 💜 | Strengthen programming fundamentals |
+| 💜 | Master data structures and algorithms |
+| 💜 | Build meaningful software projects |
+| 💜 | Explore AI and backend development |
+| ⬜ | Contribute to open-source projects |
+
+</div>
+
+---
+
+## `> featured_projects`
+
+<div align="center">
+
+<a href="https://github.com/Tamashirax?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-7E22CE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### <span style="color:#A855F7">while (alive) { learn(); build(); improve(); }</span>
+### `while (alive) { learn(); build(); improve(); }`
 
 **Thanks for visiting my profile.** 💜
 
-`DARKNESS • LOGIC • CREATIVITY`
+`DARKNESS` • `LOGIC` • `CREATIVITY`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6D28D9,100:A855F7&height=100&section=footer" width="100%" />
 
 </div>

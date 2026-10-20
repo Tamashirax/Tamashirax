@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=BSIT+Student+%40+CIT-U;Aspiring+Software+Developer;C+%7C+C%2B%2B+%7C+Java;Learning.+Building.+Improving.)](https://git.io/typing-svg)
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTamashirax&count_bg=%237E22CE&title_bg=%23555555&icon=&icon_color=%23E9D5FF&title=PROFILE+VIEWS&edge_flat=false)](https://github.com/Tamashirax)
+[![Profile Views](https://komarev.com/ghpvc/?username=tamashirax&style=for-the-badge&color=7e22ce&label=PROFILE+VIEWS)](https://github.com/Tamashirax)
 [![GitHub](https://img.shields.io/badge/GitHub-Tamashirax-18181B?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/Tamashirax)
 
 </div>

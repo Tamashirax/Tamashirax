@@ -19,15 +19,202 @@
 
 ---
 
+
+
 ## `> whoami`
 
+
+
 ```text
+
 ╔══════════════════════════════════════╗
-║              DEVELOPER               ║
+
+║             DEVELOPER                ║
+
 ╠══════════════════════════════════════╣
+
 ║  USER       : Tamashirax             ║
+
 ║  EDUCATION  : BS Information Tech    ║
+
 ║  UNIVERSITY : CIT - University       ║
+
 ║  EXPERIENCE : 1+ Year Coding         ║
+
 ║  STATUS     : Always Learning        ║
+
 ╚══════════════════════════════════════╝
+
+```
+
+
+
+🎓 Studying **Bachelor of Science in Information Technology** at Cebu Institute of Technology - University
+💻 1+ year of coding experience
+🧠 Interested in programming, algorithms, and software development
+⚡ Learning through hands-on projects and experimentation
+🚀 Working toward becoming a better developer
+
+
+---
+
+
+
+## `> tech --stack`
+
+
+
+<div align="center">
+
+
+
+### Languages
+
+
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,css&theme=dark" />
+
+
+
+### Tools & Platforms
+
+
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+## `> github --stats`
+
+
+
+<div align="center">
+
+
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tamashirax&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&ring_color=A855F7" />
+
+
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Tamashirax&theme=transparent&hide_border=true&background=0D0618&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=9CA3AF" />
+
+
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamashirax&layout=compact&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=E9D5FF" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+## `> github --trophies`
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tamashirax&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+## `> current_mission`
+
+
+
+<div align="center">
+
+
+
+| Status | Mission |
+
+|:---:|---|
+
+| 💜 | Strengthen programming fundamentals |
+
+| 💜 | Master data structures and algorithms |
+
+| 💜 | Build meaningful software projects |
+
+| 💜 | Explore AI and backend development |
+
+| ⬜ | Contribute to open-source projects |
+
+
+
+</div>
+
+
+
+---
+
+
+
+## `> featured_projects`
+
+
+
+<div align="center">
+
+
+
+<a href="https://github.com/Tamashirax?tab=repositories">
+
+<img src="https://img.shields.io/badge/Explore-My_Repositories-7E22CE?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+### `while (alive) { learn(); build(); improve(); }`
+
+
+
+**Thanks for visiting my profile.** 💜
+
+
+
+`DARKNESS` • `LOGIC` • `CREATIVITY`
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6D28D9,100:A855F7&height=100&section=footer" width="100%" />
+
+
+
+</div>
+

@@ -64,12 +64,12 @@
 <div align="center">
 
 | Status | Mission |
-|:---:|---|
-| 💜 | Strengthen programming fundamentals |
-| 💜 | Master data structures and algorithms |
-| 💜 | Build meaningful software projects |
-| 💜 | Explore AI and backend development |
-| ⬜ | Contribute to open-source projects |
+| :---: | :--- |
+| <img src="https://img.shields.io/badge/-%20ACTIVE%20-7E22CE?style=flat-square" /> | **Strengthen programming fundamentals** |
+| <img src="https://img.shields.io/badge/-%20ACTIVE%20-7E22CE?style=flat-square" /> | **Master data structures and algorithms** |
+| <img src="https://img.shields.io/badge/-%20ACTIVE%20-7E22CE?style=flat-square" /> | **Build meaningful software projects** |
+| <img src="https://img.shields.io/badge/-%20ACTIVE%20-7E22CE?style=flat-square" /> | **Explore AI and backend development** |
+| <img src="https://img.shields.io/badge/-%20PLANNED%20-27272A?style=flat-square" /> | **Contribute to open-source projects** |
 
 <br/>
 

@@ -12,9 +12,9 @@
 <!-- Header Card -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/galaxy-header-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/galaxy-header.svg">
-    <img alt="Galaxy Header" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/galaxy-header.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/galaxy-header-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/galaxy-header.svg?v=2">
+    <img alt="Galaxy Header" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/galaxy-header.svg?v=2" width="100%">
   </picture>
 </div>
 
@@ -25,9 +25,9 @@
 <!-- Tech Stack Background Card -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/tech-stack-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/tech-stack.svg">
-    <img alt="Tech Stack" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/tech-stack.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/tech-stack-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/tech-stack.svg?v=2">
+    <img alt="Tech Stack" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/tech-stack.svg?v=2" width="100%">
   </picture>
 </div>
 
@@ -44,9 +44,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/stats-card-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/stats-card.svg">
-  <img alt="Stats Card" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/stats-card.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/stats-card-light.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/stats-card.svg?v=2">
+  <img alt="Stats Card" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/stats-card.svg?v=2" width="100%">
 </picture>
 
 </div>
@@ -58,9 +58,9 @@
 <!-- Projects Constellation Card -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/projects-constellation-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/projects-constellation.svg">
-    <img alt="Projects Constellation" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/projects-constellation.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/projects-constellation-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/projects-constellation.svg?v=2">
+    <img alt="Projects Constellation" src="https://raw.githubusercontent.com/Tamashirax/galaxy-profile/main/assets/generated/projects-constellation.svg?v=2" width="100%">
   </picture>
 </div>
 
